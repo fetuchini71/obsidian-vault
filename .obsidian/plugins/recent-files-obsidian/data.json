@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alg_Cambio_Base",
+      "path": "Indice/Algebra/Alg_Cambio_Base.md"
+    },
+    {
       "basename": "Ejercicio",
       "path": "Indice/_templates/Ejercicio.md"
     },
@@ -11,6 +15,10 @@
     {
       "basename": "Flashcards",
       "path": "Indice/_templates/Flashcards.md"
+    },
+    {
+      "basename": "Alg_Autovalores_Autovectores",
+      "path": "Indice/Algebra/Alg_Autovalores_Autovectores.md"
     },
     {
       "basename": "000_Indice",
