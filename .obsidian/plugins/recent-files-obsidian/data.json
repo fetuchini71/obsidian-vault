@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard_Progreso",
+      "path": "Indice/Dashboard_Progreso.md"
+    },
+    {
+      "basename": "Nota de Clase",
+      "path": "Indice/_templates/Nota de Clase.md"
+    },
+    {
+      "basename": "Alg_Numeros_Complejos",
+      "path": "Indice/Algebra/Alg_Numeros_Complejos.md"
+    },
+    {
       "basename": "Alg_Cambio_Base",
       "path": "Indice/Algebra/Alg_Cambio_Base.md"
     },
     {
       "basename": "Ejercicio",
       "path": "Indice/_templates/Ejercicio.md"
-    },
-    {
-      "basename": "Nota de Clase",
-      "path": "Indice/_templates/Nota de Clase.md"
     },
     {
       "basename": "Flashcards",
@@ -27,10 +35,6 @@
     {
       "basename": "Recursos_Complementarios",
       "path": "Indice/Recursos_Complementarios.md"
-    },
-    {
-      "basename": "Dashboard_Progreso",
-      "path": "Indice/Dashboard_Progreso.md"
     }
   ],
   "omittedPaths": [],
