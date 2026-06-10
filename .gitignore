@@ -25,3 +25,9 @@ Thumbs.db
 .obsidian/plugins/**/main.js
 .obsidian/plugins/**/styles.css
 .obsidian/plugins/**/README.md
+
+# Auto-generated plugin files
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Text Extractor OCR cache
+.obsidian/plugins/text-extractor/cache/

@@ -1,0 +1,19 @@
+{
+  "commitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "auto: vault backup {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 30,
+  "autoPushInterval": 60,
+  "pullBeforePush": true,
+  "syncMethod": "rebase",
+  "showStatusBar": true,
+  "showBranch": true,
+  "currentBranch": "main",
+  "remote": "origin",
+  "basePath": "",
+  "autoCommitAndPush": true,
+  "notifyAboutAvailableUpdates": true,
+  "updateSubmodules": false,
+  "autoReload": false,
+  "disablePopups": false
+}
