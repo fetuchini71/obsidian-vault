@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
+    },
+    {
       "basename": "Dashboard_Progreso",
       "path": "Indice/Dashboard_Progreso.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Alg_Autovalores_Autovectores",
       "path": "Indice/Algebra/Alg_Autovalores_Autovectores.md"
-    },
-    {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Recursos_Complementarios",
