@@ -1,0 +1,27 @@
+# Raw material (PDFs, etc.) — too heavy
+Raw/
+
+# Captures
+Capturas/
+
+# Smart Connections embeddings
+.smart-env/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace.json.bak
+.obsidian/cache/
+
+# Temp
+*.tmp
+
+# Plugin binaries (reinstallable)
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/styles.css
+.obsidian/plugins/**/README.md

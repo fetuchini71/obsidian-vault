@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "version": 1,
+      "alwaysOpen": true,
+      "openOnStart": true,
+      "openMode": "replace",
+      "emoji": "🏠",
+      "value": "Indice/000_Indice.md",
+      "kind": "File",
+      "commands": []
+    }
+  },
+  "separateMobile": false
+}
