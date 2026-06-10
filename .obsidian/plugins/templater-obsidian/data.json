@@ -1,0 +1,14 @@
+{
+  "syntax_highlight": true,
+  "template_folder": "Indice/_templates",
+  "templates_pairs": [
+    ["", ""]
+  ],
+  "trigger_on_file_creation": true,
+  "enable_system_commands": false,
+  "shell_commands": [],
+  "enable_file_templates": true,
+  "file_template_folder": "Indice/_templates",
+  "open_current_tab_on_insert": true,
+  "automatic_templates": []
+}

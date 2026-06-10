@@ -1,3 +1,15 @@
+---
+eje: Química
+codigo: IQ-QGI
+icono: 🧪
+temas: 8
+etapas: 2
+estado: en_progreso
+progreso: 40
+ultima_revision: 2026-06-10
+etiquetas: [atomos, enlace, estequiometria, termoquimica, tabla-periodica]
+---
+
 > [!INFO] Conexiones de la Red
 > Base para: [[Eje_Analisis_Matematico]] (herramientas de termoquímica) • [[Eje_Fisica]] (enlace atómico en propiedades de materiales)
 > Recibe de: [[000_Indice]]

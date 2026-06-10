@@ -1,3 +1,15 @@
+---
+eje: Análisis Matemático
+codigo: AMI-AMIV
+icono: 📐
+temas: 16
+etapas: 4
+estado: en_progreso
+progreso: 10
+ultima_revision: 2026-06-10
+etiquetas: [calculo, derivadas, integrales, edo, fourier]
+---
+
 > [!INFO] Conexiones de la Red
 > [[000_Indice]] • [[Eje_Algebra]] • [[Eje_Quimica]]
 

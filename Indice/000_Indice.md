@@ -1,9 +1,17 @@
 > [!INFO] Conexiones de la Red
-> [[Eje_Algebra]] • [[Eje_Analisis_Matematico]] • [[Eje_Quimica]]
+> [[Eje_Algebra]] • [[Eje_Analisis_Matematico]] • [[Eje_Quimica]] • [[Dashboard_Progreso|📊 Dashboard]]
 
 # 000 — Índice General
 
 Nodo raíz del vault. Desde acá se accede a los tres ejes troncales que estructuran la carrera.
+
+> [!tip]- 📊 Progreso rápido
+> ```dataview
+> TABLE icono + " " + eje as "Eje", progreso + "%" as "Progreso", estado
+> FROM "Indice"
+> WHERE eje
+> SORT progreso DESC
+> ```
 
 ---
 

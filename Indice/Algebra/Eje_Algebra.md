@@ -1,3 +1,15 @@
+---
+eje: Álgebra
+codigo: AGI-AMII
+icono: 🔷
+temas: 13
+etapas: 2
+estado: en_progreso
+progreso: 15
+ultima_revision: 2026-06-10
+etiquetas: [algebra, matrices, vectores, espacios-vectoriales, transformaciones-lineales]
+---
+
 > [!INFO] Conexiones de la Red
 > Base para: [[Eje_Analisis_Matematico]] (herramienta fundamental) • [[Eje_Fisica]] (vectores, sistemas de ecuaciones) • [[Eje_Quimica]] (estequiometría)
 > Recibe de: [[000_Indice]]
