@@ -12,6 +12,8 @@ Nodo raíz del vault. Desde acá se accede a los tres ejes troncales que estruct
 > WHERE eje
 > SORT progreso DESC
 > ```
+>
+> 🃏 **Cheat sheets:** [[Card_Algebra_I|🔷 Álgebra]] • [[Card_Analisis_I|📐 Análisis]] • [[Card_Quimica|🧪 Química]]
 
 ---
 
