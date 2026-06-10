@@ -1,8 +1,8 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags: [ejercicio/<% tp.system.suggester(["Álgebra", "Análisis Matemático", "Química"], ["algebra", "analisis", "quimica"], true, "¿Qué materia?") %>]
-materia: <% tp.system.suggester(["Álgebra y Geometría I", "Análisis Matemático I", "Introducción a la Química"], ["AGI", "AMI", "IQ"], true, "¿Qué materia?") %>
-fuente: <% tp.system.prompt("Fuente (libro, guía, parcial...):", "", false) %>
+tags: [ejercicio/<% tp.system.suggester(["Algebra", "Analisis", "Quimica"], ["algebra", "analisis", "quimica"]) %>]
+materia: <% tp.system.suggester(["Algebra y Geometria I", "Analisis Matematico I", "Introduccion a la Quimica"], ["AGI", "AMI", "IQ"]) %>
+fuente: <% tp.system.prompt("Fuente (libro, guia, parcial...)", "") %>
 estado: pendiente
 semana: <% tp.date.now("ww-YYYY") %>
 ---
@@ -24,5 +24,5 @@ semana: <% tp.date.now("ww-YYYY") %>
 > [!tip]- Pista
 >
 
-> [!success]- Solución
+> [!success]- Solucion
 >

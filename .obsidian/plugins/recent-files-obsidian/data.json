@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Ejercicio",
+      "path": "Indice/_templates/Ejercicio.md"
+    },
+    {
+      "basename": "Nota de Clase",
+      "path": "Indice/_templates/Nota de Clase.md"
+    },
+    {
+      "basename": "Flashcards",
+      "path": "Indice/_templates/Flashcards.md"
+    },
+    {
       "basename": "000_Indice",
       "path": "Indice/000_Indice.md"
+    },
+    {
+      "basename": "Recursos_Complementarios",
+      "path": "Indice/Recursos_Complementarios.md"
+    },
+    {
+      "basename": "Dashboard_Progreso",
+      "path": "Indice/Dashboard_Progreso.md"
     }
   ],
   "omittedPaths": [],

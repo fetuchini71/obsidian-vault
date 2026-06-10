@@ -1,14 +1,14 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags: [clase/<% tp.system.suggester(["Álgebra", "Análisis Matemático", "Química"], ["algebra", "analisis", "quimica"], true, "¿Qué materia?") %>]
-materia: <% tp.system.suggester(["Álgebra y Geometría I", "Análisis Matemático I", "Introducción a la Química"], ["AGI", "AMI", "IQ"], true, "¿Qué materia?") %>
+tags: [clase/<% tp.system.suggester(["Algebra", "Analisis", "Quimica"], ["algebra", "analisis", "quimica"]) %>]
+materia: <% tp.system.suggester(["Algebra y Geometria I", "Analisis Matematico I", "Introduccion a la Quimica"], ["AGI", "AMI", "IQ"]) %>
 estado: pendiente
 semana: <% tp.date.now("ww-YYYY") %>
 ---
 
 # <% tp.file.title %>
 
-**Fecha:** <% tp.date.now("dddd, DD [de] MMMM [de] YYYY", 0, "es") %>
+**Fecha:** <% tp.date.now("dddd, DD/MM/YYYY") %>
 **Materia:** `= this.materia`
 **Profesor:**
 **Temas cubiertos:**
@@ -17,13 +17,13 @@ semana: <% tp.date.now("ww-YYYY") %>
 
 ## Apuntes
 
-
+_(Escribí acá)_
 
 ## Preguntas pendientes
 
-- [ ] <%= await tp.system.prompt("Pregunta pendiente (opcional)", "", false) %>
+- [ ]
 
-## Próxima clase
+## Proxima clase
 
 - [ ] Repasar
 - [ ] Leer material
@@ -31,6 +31,5 @@ semana: <% tp.date.now("ww-YYYY") %>
 
 ---
 
-> [!abstract] Resumen rápido
->
+> [!abstract] Resumen rapido
 >
