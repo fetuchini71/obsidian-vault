@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
+      "basename": "Eje_Quimica",
+      "path": "Indice/Quimica/Eje_Quimica.md"
+    },
+    {
+      "basename": "Card_Quimica",
+      "path": "Indice/Quimica/Card_Quimica.md"
     },
     {
       "basename": "Dashboard_Progreso",
       "path": "Indice/Dashboard_Progreso.md"
+    },
+    {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Nota de Clase",
