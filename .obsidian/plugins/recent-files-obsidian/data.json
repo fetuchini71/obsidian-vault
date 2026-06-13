@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
+    },
+    {
       "basename": "Quim_Compuestos_Nomenclatura",
       "path": "Indice/Quimica/Quim_Compuestos_Nomenclatura.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Dashboard_Progreso",
       "path": "Indice/Dashboard_Progreso.md"
-    },
-    {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Nota de Clase",
