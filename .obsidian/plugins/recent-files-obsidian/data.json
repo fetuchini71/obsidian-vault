@@ -5,6 +5,10 @@
       "path": "Indice/000_Indice.md"
     },
     {
+      "basename": "Ejercicio",
+      "path": "Indice/_templates/Ejercicio.md"
+    },
+    {
       "basename": "Quim_Compuestos_Nomenclatura",
       "path": "Indice/Quimica/Quim_Compuestos_Nomenclatura.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Alg_Cambio_Base",
       "path": "Indice/Algebra/Alg_Cambio_Base.md"
-    },
-    {
-      "basename": "Ejercicio",
-      "path": "Indice/_templates/Ejercicio.md"
     },
     {
       "basename": "Flashcards",
