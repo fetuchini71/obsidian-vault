@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Mega-Recopilatorio_Workflows_IA",
-      "path": "Recursos/Mega-Recopilatorio_Workflows_IA.md"
+      "basename": "Anm_Limites_Continuidad",
+      "path": "Indice/Analisis_Matematico/Anm_Limites_Continuidad.md"
+    },
+    {
+      "basename": "Anm_Derivadas",
+      "path": "Indice/Analisis_Matematico/Anm_Derivadas.md"
+    },
+    {
+      "basename": "Anm_Aplicaciones_Derivada",
+      "path": "Indice/Analisis_Matematico/Anm_Aplicaciones_Derivada.md"
+    },
+    {
+      "basename": "Dashboard_Recursos",
+      "path": "Indice/Dashboard_Recursos.md"
+    },
+    {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
+    },
+    {
+      "basename": "Dashboard_Progreso",
+      "path": "Indice/Dashboard_Progreso.md"
+    },
+    {
+      "basename": "Recursos_Complementarios",
+      "path": "Indice/Recursos_Complementarios.md"
     },
     {
       "basename": "Guia_Recursos_Algebra_y_Geometria_I",
       "path": "Recursos/Guia_Recursos_Algebra_y_Geometria_I.md"
+    },
+    {
+      "basename": "Mega-Recopilatorio_Workflows_IA",
+      "path": "Recursos/Mega-Recopilatorio_Workflows_IA.md"
     },
     {
       "basename": "Guia_Recursos_Quimica_General",
@@ -15,14 +43,6 @@
     {
       "basename": "Guia_Recursos_Analisis_Matematico_I",
       "path": "Recursos/Guia_Recursos_Analisis_Matematico_I.md"
-    },
-    {
-      "basename": "Recursos_Complementarios",
-      "path": "Indice/Recursos_Complementarios.md"
-    },
-    {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Ejercicio",
@@ -39,10 +59,6 @@
     {
       "basename": "Card_Quimica",
       "path": "Indice/Quimica/Card_Quimica.md"
-    },
-    {
-      "basename": "Dashboard_Progreso",
-      "path": "Indice/Dashboard_Progreso.md"
     },
     {
       "basename": "Nota de Clase",
