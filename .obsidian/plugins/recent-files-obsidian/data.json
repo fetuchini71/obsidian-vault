@@ -5,6 +5,10 @@
       "path": "Indice/Quimica/Eje_Quimica.md"
     },
     {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
+    },
+    {
       "basename": "Eje_Algebra",
       "path": "Indice/Algebra/Eje_Algebra.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Dashboard_Recursos",
       "path": "Indice/Dashboard_Recursos.md"
-    },
-    {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Dashboard_Progreso",
