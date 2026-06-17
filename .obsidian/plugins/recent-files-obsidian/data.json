@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Eje_Quimica",
+      "path": "Indice/Quimica/Eje_Quimica.md"
+    },
+    {
+      "basename": "Eje_Algebra",
+      "path": "Indice/Algebra/Eje_Algebra.md"
+    },
+    {
+      "basename": "Nota de Clase",
+      "path": "Indice/_templates/Nota de Clase.md"
+    },
+    {
       "basename": "Anm_Limites_Continuidad",
       "path": "Indice/Analisis_Matematico/Anm_Limites_Continuidad.md"
     },
@@ -53,16 +65,8 @@
       "path": "Indice/Quimica/Quim_Compuestos_Nomenclatura.md"
     },
     {
-      "basename": "Eje_Quimica",
-      "path": "Indice/Quimica/Eje_Quimica.md"
-    },
-    {
       "basename": "Card_Quimica",
       "path": "Indice/Quimica/Card_Quimica.md"
-    },
-    {
-      "basename": "Nota de Clase",
-      "path": "Indice/_templates/Nota de Clase.md"
     },
     {
       "basename": "Alg_Numeros_Complejos",
