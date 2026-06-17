@@ -12,6 +12,56 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-17 11:20 | Analisis | Anm_01 | Un aporte para trabajar sucesiones numéricas con Geogebra | ✅ |
+
+| 2026-06-17 11:20 | Analisis | Anm_01 | Un aporte para trabajar sucesiones numéricas con Geogebra | ✅ |
+
+| 2026-06-17 11:18 | Analisis | Anm_01 | Sucesiones numéricas. Un aporte para su aprendizaje | ✅ |
+
+| 2026-06-17 11:18 | Analisis | Anm_01 | Sucesiones numéricas. Un aporte para su aprendizaje | ✅ |
+
+| 2026-06-17 11:16 | Analisis | Anm_01 | Análisis histórico-epistemológico de sucesiones y series: Un | ✅ |
+
+| 2026-06-17 11:16 | Analisis | Anm_01 | Análisis histórico-epistemológico de sucesiones y series: Un | ✅ |
+
+| 2026-06-17 11:14 | Algebra | Alg_01 | PENSUM 226 | ✅ |
+
+| 2026-06-17 11:14 | Algebra | Alg_01 | PENSUM 226 | ✅ |
+
+| 2026-06-17 11:12 | Algebra | Alg_01 | Investigación de diseño en la enseñanza del concepto de vect | ✅ |
+
+| 2026-06-17 11:12 | Algebra | Alg_01 | Investigación de diseño en la enseñanza del concepto de vect | ✅ |
+
+| 2026-06-17 11:10 | Algebra | Alg_01 | Una propuesta de orquestación instrumental para introducir l | ✅ |
+
+| 2026-06-17 11:09 | Algebra | Alg_01 | Una propuesta de orquestación instrumental para introducir l | ✅ |
+
+| 2026-06-17 11:08 | Algebra | Alg_01 | pdf_1781703166637_a3rlaz.pdf | ✅ |
+
+| 2026-06-17 11:07 | Algebra | Alg_01 | pdf_1781703166637_a3rlaz.pdf | ✅ |
+
+| 2026-06-17 11:06 | Algebra | Alg_01 | pdf_1781703151329_3i795p.pdf | ✅ |
+
+| 2026-06-17 11:05 | Algebra | Alg_01 | pdf_1781703151329_3i795p.pdf | ✅ |
+
+| 2026-06-17 11:03 | Algebra | Alg_01 | pdf_1781703121250_e9zlj9.pdf | ✅ |
+
+| 2026-06-17 11:03 | Algebra | Alg_01 | pdf_1781703121250_e9zlj9.pdf | ✅ |
+
+| 2026-06-17 11:01 | Algebra | Alg_01 | pdf_1781702349304_44s9iu.pdf | ✅ |
+
+| 2026-06-17 11:01 | Algebra | Alg_01 | pdf_1781702349304_44s9iu.pdf | ✅ |
+
+| 2026-06-17 10:59 | Algebra | Alg_01 | pdf_1781702346717_08y93v.pdf | ✅ |
+
+| 2026-06-17 10:59 | Algebra | Alg_01 | pdf_1781702346717_08y93v.pdf | ✅ |
+
+| 2026-06-17 10:57 | Algebra | Alg_01 | pdf_1781702343556_78fpi7.pdf | ✅ |
+
+| 2026-06-17 10:57 | Algebra | Alg_01 | pdf_1781702343556_78fpi7.pdf | ✅ |
+
+| 2026-06-17 10:55 | Algebra | Alg_01 | pdf_1781702316203_1kog2d.pdf | ✅ |
+
 | 2026-06-17 08:04 | Algebra | Alg_01 | Estudio de las aplicaciones de las cónicas mediado por la mo | ✅ |
 
 | 2026-06-17 08:03 | Algebra | Alg_01 | LAS CÓNICAS. | ✅ |

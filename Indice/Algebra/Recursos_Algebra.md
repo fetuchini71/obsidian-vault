@@ -75,3 +75,155 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** IP Gutiérrez - academia.edu
 - **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781691042195_z12qlf.pdf`
+
+
+### 2026-06-17 — pdf_1781702316203_1kog2d.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702316203_1kog2d.pdf`
+
+
+### 2026-06-17 — pdf_1781702343556_78fpi7.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702343556_78fpi7.pdf`
+
+
+### 2026-06-17 — pdf_1781702343556_78fpi7.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702343556_78fpi7.pdf`
+
+
+### 2026-06-17 — pdf_1781702346717_08y93v.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702346717_08y93v.pdf`
+
+
+### 2026-06-17 — pdf_1781702346717_08y93v.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702346717_08y93v.pdf`
+
+
+### 2026-06-17 — pdf_1781702349304_44s9iu.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702349304_44s9iu.pdf`
+
+
+### 2026-06-17 — pdf_1781702349304_44s9iu.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781702349304_44s9iu.pdf`
+
+
+### 2026-06-17 — pdf_1781703121250_e9zlj9.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703121250_e9zlj9.pdf`
+
+
+### 2026-06-17 — pdf_1781703121250_e9zlj9.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703121250_e9zlj9.pdf`
+
+
+### 2026-06-17 — pdf_1781703151329_3i795p.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703151329_3i795p.pdf`
+
+
+### 2026-06-17 — pdf_1781703151329_3i795p.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703151329_3i795p.pdf`
+
+
+### 2026-06-17 — pdf_1781703166637_a3rlaz.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703166637_a3rlaz.pdf`
+
+
+### 2026-06-17 — pdf_1781703166637_a3rlaz.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781703166637_a3rlaz.pdf`
+
+
+### 2026-06-17 — Una propuesta de orquestación instrumental para introducir los conceptos de valores y vectores propios en un primer curso de álgebra lineal para estudiantes …
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** JC Orozco Santiago - 2020 - repositorio.cinvestav.mx
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703244764_1nqz0b.pdf`
+
+
+### 2026-06-17 — Una propuesta de orquestación instrumental para introducir los conceptos de valores y vectores propios en un primer curso de álgebra lineal para estudiantes …
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** JC Orozco Santiago - 2020 - repositorio.cinvestav.mx
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703244764_1nqz0b.pdf`
+
+
+### 2026-06-17 — Investigación de diseño en la enseñanza del concepto de vector: una aproximación para el diseño de tareas
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** S Paz Rodríguez - 2020 - repositorio.cinvestav.mx
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703252903_3wjs0p.pdf`
+
+
+### 2026-06-17 — Investigación de diseño en la enseñanza del concepto de vector: una aproximación para el diseño de tareas
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** S Paz Rodríguez - 2020 - repositorio.cinvestav.mx
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703252903_3wjs0p.pdf`
+
+
+### 2026-06-17 — PENSUM 226
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** FJ DE CALDAS - 2009 - ftecnologica.udistrital.edu.co
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703280382_lc6xue.pdf`
+
+
+### 2026-06-17 — PENSUM 226
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** FJ DE CALDAS - 2009 - ftecnologica.udistrital.edu.co
+- **📎 PDF:** `/data/output/PDFs/Algebra/pdf_1781703280382_lc6xue.pdf`
