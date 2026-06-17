@@ -59,3 +59,19 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** J Gonzalez, P Medina, S Vilanova… - Revista de Educación …, 2012 - dialnet.unirioja.es
 - **📎 PDF:** `/data/output/PDFs/Analisis/pdf_1781697608863_2y1wd8.pdf`
+
+
+### 2026-06-17 — Una aproximación al concepto de convergencia uniforme usando GeoGebra
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** WG Thiriat, JCR Fernández - Lecturas matemáticas, 2025 - dialnet.unirioja.es
+- **📎 PDF:** `/data/output/PDFs/Analisis/pdf_1781697610027_kwvfir.pdf`
+
+
+### 2026-06-17 — Una aproximación al concepto de convergencia uniforme usando GeoGebra
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** WG Thiriat, JCR Fernández - Lecturas matemáticas, 2025 - dialnet.unirioja.es
+- **📎 PDF:** `/data/output/PDFs/Analisis/pdf_1781697610027_kwvfir.pdf`

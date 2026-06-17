@@ -12,6 +12,22 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-17 11:28 | Quimica | Quim_01 | Las reacciones químicas como sistemas térmicos: estrategia p | ✅ |
+
+| 2026-06-17 11:28 | Quimica | Quim_01 | Las reacciones químicas como sistemas térmicos: estrategia p | ✅ |
+
+| 2026-06-17 11:26 | Quimica | Quim_01 | AUTÓNOMA DE MÉXICO | ✅ |
+
+| 2026-06-17 11:26 | Quimica | Quim_01 | AUTÓNOMA DE MÉXICO | ✅ |
+
+| 2026-06-17 11:24 | Quimica | Quim_01 | Introducción a la termoquímica | ✅ |
+
+| 2026-06-17 11:24 | Quimica | Quim_01 | Introducción a la termoquímica | ✅ |
+
+| 2026-06-17 11:22 | Analisis | Anm_01 | Una aproximación al concepto de convergencia uniforme usando | ✅ |
+
+| 2026-06-17 11:22 | Analisis | Anm_01 | Una aproximación al concepto de convergencia uniforme usando | ✅ |
+
 | 2026-06-17 11:20 | Analisis | Anm_01 | Un aporte para trabajar sucesiones numéricas con Geogebra | ✅ |
 
 | 2026-06-17 11:20 | Analisis | Anm_01 | Un aporte para trabajar sucesiones numéricas con Geogebra | ✅ |
