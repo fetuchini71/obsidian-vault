@@ -1,0 +1,10 @@
+{
+  "mcpTransport": {
+    "bearerToken": "gJtn8MabjX09q7AJzwHcPVs2Shx22zFw1w4Dm0lPKNg"
+  },
+  "semanticSearch": {
+    "provider": "auto",
+    "indexingMode": "live",
+    "unloadModelWhenIdle": false
+  }
+}
