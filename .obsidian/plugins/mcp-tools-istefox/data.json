@@ -6,5 +6,15 @@
     "provider": "auto",
     "indexingMode": "live",
     "unloadModelWhenIdle": false
+  },
+  "toolLoading": {
+    "profile": "all",
+    "counters": {
+      "get_server_info": 2,
+      "get_recent_files": 3,
+      "get_vault_file": 4,
+      "fetch": 5
+    },
+    "promoted": []
   }
 }
