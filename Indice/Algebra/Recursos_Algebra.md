@@ -291,3 +291,155 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744795158_dv7vsw.pdf`
+
+
+### 2026-06-18 — pdf_1781744802803_d5qlgx.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744802803_d5qlgx.pdf`
+
+
+### 2026-06-18 — pdf_1781744836312_d8nt5p.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744836312_d8nt5p.pdf`
+
+
+### 2026-06-18 — pdf_1781744858895_ywa6a3.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744858895_ywa6a3.pdf`
+
+
+### 2026-06-18 — pdf_1781744865581_qbcf6m.pdf
+- **Resumen:** 
+- **Dificultad:** 
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744865581_qbcf6m.pdf`
+
+
+### 2026-06-18 — pdf_1781744880251_d46bj8.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781744880251_d46bj8.pdf`
+
+
+### 2026-06-18 — pdf_1781745001478_yqgf8t.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745001478_yqgf8t.pdf`
+
+
+### 2026-06-18 — pdf_1781745010096_jgpejb.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745010096_jgpejb.pdf`
+
+
+### 2026-06-18 — pdf_1781745042440_o2nj6g.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745042440_o2nj6g.pdf`
+
+
+### 2026-06-18 — pdf_1781745045352_knnzz8.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745045352_knnzz8.pdf`
+
+
+### 2026-06-18 — pdf_1781745068314_pwhwk4.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745068314_pwhwk4.pdf`
+
+
+### 2026-06-18 — pdf_1781745120265_0o2u2f.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745120265_0o2u2f.pdf`
+
+
+### 2026-06-18 — pdf_1781745124343_61lnka.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745124343_61lnka.pdf`
+
+
+### 2026-06-18 — pdf_1781745142394_apza9w.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745142394_apza9w.pdf`
+
+
+### 2026-06-18 — pdf_1781745143904_v7rds1.pdf
+- **Resumen:** No disponible
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745143904_v7rds1.pdf`
+
+
+### 2026-06-18 — pdf_1781745171905_qydmqv.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745171905_qydmqv.pdf`
+
+
+### 2026-06-18 — pdf_1781745236259_dul7lb.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745236259_dul7lb.pdf`
+
+
+### 2026-06-18 — pdf_1781745240261_aj2zhv.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745240261_aj2zhv.pdf`
+
+
+### 2026-06-18 — pdf_1781745245642_b1fpp6.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745245642_b1fpp6.pdf`
+
+
+### 2026-06-18 — pdf_1781745246284_a99pbh.pdf
+- **Resumen:** 
+- **Dificultad:** 
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745246284_a99pbh.pdf`

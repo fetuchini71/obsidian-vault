@@ -12,6 +12,44 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-18 20:38 | Algebra | Alg_01 | pdf_1781745246284_a99pbh.pdf | ✅ |
+
+| 2026-06-18 20:36 | Algebra | Alg_01 | pdf_1781745245642_b1fpp6.pdf | ✅ |
+
+| 2026-06-18 20:34 | Algebra | Alg_01 | pdf_1781745240261_aj2zhv.pdf | ✅ |
+
+| 2026-06-18 20:32 | Algebra | Alg_01 | pdf_1781745236259_dul7lb.pdf | ✅ |
+
+| 2026-06-18 20:30 | Algebra | Alg_01 | pdf_1781745171905_qydmqv.pdf | ✅ |
+
+| 2026-06-18 20:28 | Algebra | Alg_01 | pdf_1781745143904_v7rds1.pdf | ✅ |
+
+| 2026-06-18 20:27 | Algebra | Alg_01 | pdf_1781745142394_apza9w.pdf | ✅ |
+
+| 2026-06-18 20:25 | Algebra | Alg_01 | pdf_1781745124343_61lnka.pdf | ✅ |
+
+| 2026-06-18 20:23 | Algebra | Alg_01 | pdf_1781745120265_0o2u2f.pdf | ✅ |
+
+| 2026-06-18 20:21 | Algebra | Alg_01 | pdf_1781745068314_pwhwk4.pdf | ✅ |
+
+| 2026-06-18 20:19 | Algebra | Alg_01 | pdf_1781745045352_knnzz8.pdf | ✅ |
+
+| 2026-06-18 20:16 | Algebra | Alg_01 | pdf_1781745042440_o2nj6g.pdf | ✅ |
+
+| 2026-06-18 20:14 | Algebra | Alg_01 | pdf_1781745010096_jgpejb.pdf | ✅ |
+
+| 2026-06-18 20:12 | Algebra | Alg_01 | pdf_1781745001478_yqgf8t.pdf | ✅ |
+
+| 2026-06-18 20:10 | Algebra | Alg_01 | pdf_1781744880251_d46bj8.pdf | ✅ |
+
+| 2026-06-18 20:08 | Algebra | Alg_01 | pdf_1781744865581_qbcf6m.pdf | ✅ |
+
+| 2026-06-18 20:06 | Algebra | Alg_01 | pdf_1781744858895_ywa6a3.pdf | ✅ |
+
+| 2026-06-18 20:04 | Algebra | Alg_01 | pdf_1781744836312_d8nt5p.pdf | ✅ |
+
+| 2026-06-18 20:02 | Algebra | Alg_01 | pdf_1781744802803_d5qlgx.pdf | ✅ |
+
 | 2026-06-18 20:00 | Algebra | Alg_01 | pdf_1781744795158_dv7vsw.pdf | ✅ |
 
 | 2026-06-18 19:58 | Algebra | Alg_01 | pdf_1781744789151_ooep9g.pdf | ✅ |
