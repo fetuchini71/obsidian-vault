@@ -12,6 +12,16 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-17 20:58 | Quimica | Quim_01 | POR ELLO: EL MINISTRO DE EDUCACIÓN RESUELVE | ✅ |
+
+| 2026-06-17 20:58 | Quimica | Quim_01 | POR ELLO: EL MINISTRO DE EDUCACIÓN RESUELVE | ✅ |
+
+| 2026-06-17 20:56 | Quimica | Quim_01 | Reflexión y programación de la materia Química de 2º de Bach | ✅ |
+
+| 2026-06-17 20:56 | Quimica | Quim_01 | Reflexión y programación de la materia Química de 2º de Bach | ✅ |
+
+| 2026-06-17 20:54 | Quimica | Quim_01 | Programación para Química 2º de Bachillerato y propuesta de  | ✅ |
+
 | 2026-06-17 11:28 | Quimica | Quim_01 | Las reacciones químicas como sistemas térmicos: estrategia p | ✅ |
 
 | 2026-06-17 11:28 | Quimica | Quim_01 | Las reacciones químicas como sistemas térmicos: estrategia p | ✅ |
