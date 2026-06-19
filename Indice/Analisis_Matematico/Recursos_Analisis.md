@@ -371,3 +371,19 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidade_Federal_do_Espírito_Santo_Projeto_Pedagógico_de_Curso_Física_-_Lice_140p_5.8MB.pdf`
+
+
+### 2026-06-19 — Tom_M_Apostol_auth_Introduction_to_Analytic_Number_Theory_1.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Tom_M_Apostol_auth_Introduction_to_Analytic_Number_Theory_1.pdf`
+
+
+### 2026-06-19 — Tom_M_Apostol_auth_R_P_Bambah_V_C_Dumir_R_J_Hans-Gill_eds_Number_Theory_1.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Tom_M_Apostol_auth_R_P_Bambah_V_C_Dumir_R_J_Hans-Gill_eds_Number_Theory_1.pdf`

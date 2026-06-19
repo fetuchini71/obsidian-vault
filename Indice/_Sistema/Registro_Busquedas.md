@@ -12,6 +12,14 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-19 14:13 | Analisis | Anm_01 | Tom_M_Apostol_auth_R_P_Bambah_V_C_Dumir_R_J_Hans-Gill_eds_Nu | ✅ |
+
+| 2026-06-19 14:13 | Analisis | Anm_01 | Tom_M_Apostol_auth_Introduction_to_Analytic_Number_Theory_1. | ✅ |
+
+| 2026-06-19 14:13 | Algebra | Alg_01 | Strang_Gilbert_Linear_Algebra_and_Learning_from_Data_1.pdf | ✅ |
+
+| 2026-06-19 14:13 | Algebra | Alg_01 | CONAMAT_Geometria_Trigonometria_y_Geometria_Analitica.pdf | ✅ |
+
 | 2026-06-19 08:17 | Quimica | Quim_01 | UNIVERSIDAD_NACIONAL_AUTÓNOMA_DE_MÉXICO_FACULTAD_DE_ESTUDIOS | ✅ |
 
 | 2026-06-19 08:17 | Quimica | Quim_01 | Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_ | ✅ |
