@@ -115,3 +115,35 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781755212273_z3i8nl.pdf`
+
+
+### 2026-06-19 — pdf_1781843087139_q61dym.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781843087139_q61dym.pdf`
+
+
+### 2026-06-19 — pdf_1781843087159_yirhcf.pdf
+- **Resumen:** 
+- **Dificultad:** 
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781843087159_yirhcf.pdf`
+
+
+### 2026-06-19 — pdf_1781843087161_gsa9ce.pdf
+- **Resumen:** 
+- **Dificultad:** N/A
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781843087161_gsa9ce.pdf`
+
+
+### 2026-06-19 — pdf_1781843087163_xw2dbu.pdf
+- **Resumen:** 
+- **Dificultad:** 
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781843087163_xw2dbu.pdf`

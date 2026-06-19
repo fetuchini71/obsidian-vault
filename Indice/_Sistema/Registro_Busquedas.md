@@ -12,6 +12,18 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-19 02:02 | Quimica | Quim_01 | pdf_1781843087163_xw2dbu.pdf | ✅ |
+
+| 2026-06-19 02:01 | Quimica | Quim_01 | pdf_1781843087161_gsa9ce.pdf | ✅ |
+
+| 2026-06-19 02:00 | Quimica | Quim_01 | pdf_1781843087159_yirhcf.pdf | ✅ |
+
+| 2026-06-19 01:58 | Quimica | Quim_01 | pdf_1781843087139_q61dym.pdf | ✅ |
+
+| 2026-06-19 01:56 | Algebra | Alg_01 | pdf_1781843110697_30tad0.pdf | ✅ |
+
+| 2026-06-19 01:55 | Algebra | Alg_01 | pdf_1781843110677_r0sfbt.pdf | ✅ |
+
 | 2026-06-18 21:42 | Quimica | Quim_01 | pdf_1781755212273_z3i8nl.pdf | ✅ |
 
 | 2026-06-18 21:41 | Quimica | Quim_01 | POR ELLO: EL MINISTRO DE EDUCACIÓN RESUELVE | ✅ |
