@@ -12,6 +12,8 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-19 02:04 | Quimica | Quim_01 | pdf_1781843087167_fitaxj.pdf | ✅ |
+
 | 2026-06-19 02:02 | Quimica | Quim_01 | pdf_1781843087163_xw2dbu.pdf | ✅ |
 
 | 2026-06-19 02:01 | Quimica | Quim_01 | pdf_1781843087161_gsa9ce.pdf | ✅ |
