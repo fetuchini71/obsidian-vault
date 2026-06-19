@@ -163,3 +163,147 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrategia_para_la_enseñanz_16p_1.4MB.pdf`
+
+
+### 2026-06-19 — Atkins_Physical_Chemistry_11ed.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Atkins_Physical_Chemistry_11ed.pdf`
+
+
+### 2026-06-19 — AUTOR_GUSTAVO_TRIGUEROS_FALLAS_INTRODUCCIÓN_A_LA_TERMOQUÍMICA_MAYO_2021_1_Conten_13p_0.3MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\AUTOR_GUSTAVO_TRIGUEROS_FALLAS_INTRODUCCIÓN_A_LA_TERMOQUÍMICA_MAYO_2021_1_Conten_13p_0.3MB.pdf`
+
+
+### 2026-06-19 — Chang_Chemistry_10ed.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Chang_Chemistry_10ed.pdf`
+
+
+### 2026-06-19 — HISTORIA_Y_EPISTEMOLOGÍA_DE_LAS_CIENCIAS_EL_PRINCIPIO_DE_LE_CHATELIER_A_TRAVÉS_D_10p_0.0MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\HISTORIA_Y_EPISTEMOLOGÍA_DE_LAS_CIENCIAS_EL_PRINCIPIO_DE_LE_CHATELIER_A_TRAVÉS_D_10p_0.0MB.pdf`
+
+
+### 2026-06-19 — República_Argentina_PROVINCIA_DEL_CHUBUT_Ministerio_de_Educación_R_A_W_S_0_N_3_0_91p_3.6MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\República_Argentina_PROVINCIA_DEL_CHUBUT_Ministerio_de_Educación_R_A_W_S_0_N_3_0_91p_3.6MB.pdf`
+
+
+### 2026-06-19 — Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_75p_2.3MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_75p_2.3MB.pdf`
+
+
+### 2026-06-19 — Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_92p_0.9MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_92p_0.9MB.pdf`
+
+
+### 2026-06-19 — UNIVERSIDAD_NACIONAL_AUTÓNOMA_DE_MÉXICO_FACULTAD_DE_ESTUDIOS_SUPERIORES_ARAGÓN_F_21p_0.6MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\UNIVERSIDAD_NACIONAL_AUTÓNOMA_DE_MÉXICO_FACULTAD_DE_ESTUDIOS_SUPERIORES_ARAGÓN_F_21p_0.6MB.pdf`
+
+
+### 2026-06-19 — 25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrategia_para_la_enseñanz_16p_1.4MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrategia_para_la_enseñanz_16p_1.4MB.pdf`
+
+
+### 2026-06-19 — Atkins_Physical_Chemistry_11ed.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Atkins_Physical_Chemistry_11ed.pdf`
+
+
+### 2026-06-19 — AUTOR_GUSTAVO_TRIGUEROS_FALLAS_INTRODUCCIÓN_A_LA_TERMOQUÍMICA_MAYO_2021_1_Conten_13p_0.3MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\AUTOR_GUSTAVO_TRIGUEROS_FALLAS_INTRODUCCIÓN_A_LA_TERMOQUÍMICA_MAYO_2021_1_Conten_13p_0.3MB.pdf`
+
+
+### 2026-06-19 — Chang_Chemistry_10ed.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Chang_Chemistry_10ed.pdf`
+
+
+### 2026-06-19 — HISTORIA_Y_EPISTEMOLOGÍA_DE_LAS_CIENCIAS_EL_PRINCIPIO_DE_LE_CHATELIER_A_TRAVÉS_D_10p_0.0MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\HISTORIA_Y_EPISTEMOLOGÍA_DE_LAS_CIENCIAS_EL_PRINCIPIO_DE_LE_CHATELIER_A_TRAVÉS_D_10p_0.0MB.pdf`
+
+
+### 2026-06-19 — pdf_1781859216210_nnq0wo.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781859216210_nnq0wo.pdf`
+
+
+### 2026-06-19 — República_Argentina_PROVINCIA_DEL_CHUBUT_Ministerio_de_Educación_R_A_W_S_0_N_3_0_91p_3.6MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\República_Argentina_PROVINCIA_DEL_CHUBUT_Ministerio_de_Educación_R_A_W_S_0_N_3_0_91p_3.6MB.pdf`
+
+
+### 2026-06-19 — Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_75p_2.3MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_75p_2.3MB.pdf`
+
+
+### 2026-06-19 — Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_92p_0.9MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\Universidad_de_Oviedo_Facultad_de_Formación_del_Profesorado_y_Educación_Máster_e_92p_0.9MB.pdf`
+
+
+### 2026-06-19 — UNIVERSIDAD_NACIONAL_AUTÓNOMA_DE_MÉXICO_FACULTAD_DE_ESTUDIOS_SUPERIORES_ARAGÓN_F_21p_0.6MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\UNIVERSIDAD_NACIONAL_AUTÓNOMA_DE_MÉXICO_FACULTAD_DE_ESTUDIOS_SUPERIORES_ARAGÓN_F_21p_0.6MB.pdf`

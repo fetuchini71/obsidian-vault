@@ -251,3 +251,123 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidade_Federal_do_Espírito_Santo_Projeto_Pedagógico_de_Curso_Física_-_Lice_140p_5.8MB.pdf`
+
+
+### 2026-06-19 — Bento_de_Jesus_Caraça_Cálculo_Vectorial_3.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Bento_de_Jesus_Caraça_Cálculo_Vectorial_3.pdf`
+
+
+### 2026-06-19 — Claudio_Pita_Ruiz_Calculo_Vectorial.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Claudio_Pita_Ruiz_Calculo_Vectorial.pdf`
+
+
+### 2026-06-19 — Instituto_de_Investigaciones_sobre_la_Universidad_y_la_Educación_Universidad_Nac_29p_0.8MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Instituto_de_Investigaciones_sobre_la_Universidad_y_la_Educación_Universidad_Nac_29p_0.8MB.pdf`
+
+
+### 2026-06-19 — James_James_Stewart_Stewart_Calculus_Early_Transcendentals_6°.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\James_James_Stewart_Stewart_Calculus_Early_Transcendentals_6°.pdf`
+
+
+### 2026-06-19 — James_Stewart_Calculus_Early_Transcendentals_6.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\James_Stewart_Calculus_Early_Transcendentals_6.pdf`
+
+
+### 2026-06-19 — Lecturas_Matemáticas_Volumen_46_(1)_(2025),_páginas_47-62_ISSN_0120-1980_Una_apr_16p_1.2MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Lecturas_Matemáticas_Volumen_46_(1)_(2025),_páginas_47-62_ISSN_0120-1980_Una_apr_16p_1.2MB.pdf`
+
+
+### 2026-06-19 — MINISTÉRIO_DA_EDUCAÇÃO_UNIVERSIDADE_FEDERAL_DO_OESTE_DA_BAHIA_CENTRO_DAS_CIÊNCIA_245p_2.9MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\MINISTÉRIO_DA_EDUCAÇÃO_UNIVERSIDADE_FEDERAL_DO_OESTE_DA_BAHIA_CENTRO_DAS_CIÊNCIA_245p_2.9MB.pdf`
+
+
+### 2026-06-19 — pdf_1781854691567_93e8ou.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\pdf_1781854691567_93e8ou.pdf`
+
+
+### 2026-06-19 — Stewart_Calculus_Early_Transcendentals_1421p_33MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Stewart_Calculus_Early_Transcendentals_1421p_33MB.pdf`
+
+
+### 2026-06-19 — Un_aporte_para_su_aprendizaje_Medina_Perla_,_Astiz_Mercedes,_Albarenque_Romina,__11p_0.2MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Un_aporte_para_su_aprendizaje_Medina_Perla_,_Astiz_Mercedes,_Albarenque_Romina,__11p_0.2MB.pdf`
+
+
+### 2026-06-19 — Un_aporte_para_trabajar_sucesiones_numéricas_con_Geogebra_Gonzalez_Juliana,_Medi_19p_0.7MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Un_aporte_para_trabajar_sucesiones_numéricas_con_Geogebra_Gonzalez_Juliana,_Medi_19p_0.7MB.pdf`
+
+
+### 2026-06-19 — Universidad_Autónoma_de_Querétaro_Facultad_de_Ingeniería_Maestría_en_Didáctica_d_94p_2.4MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidad_Autónoma_de_Querétaro_Facultad_de_Ingeniería_Maestría_en_Didáctica_d_94p_2.4MB.pdf`
+
+
+### 2026-06-19 — Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Curso_de_Graduação_em__246p_1.4MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Curso_de_Graduação_em__246p_1.4MB.pdf`
+
+
+### 2026-06-19 — Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Curso_de_Graduação_em__247p_1.7MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Curso_de_Graduação_em__247p_1.7MB.pdf`
+
+
+### 2026-06-19 — Universidade_Federal_do_Espírito_Santo_Projeto_Pedagógico_de_Curso_Física_-_Lice_140p_5.8MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Analisis\Universidade_Federal_do_Espírito_Santo_Projeto_Pedagógico_de_Curso_Física_-_Lice_140p_5.8MB.pdf`

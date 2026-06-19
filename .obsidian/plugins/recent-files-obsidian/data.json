@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000_Indice",
+      "path": "Indice/000_Indice.md"
+    },
+    {
       "basename": "descargador_textbooks",
       "path": "Sistema/Referencias/descargador_textbooks.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "APIs-Gratuitas-LLM-2026",
       "path": "Investigación/APIs-Gratuitas-LLM-2026.md"
-    },
-    {
-      "basename": "000_Indice",
-      "path": "Indice/000_Indice.md"
     },
     {
       "basename": "Mega-Recopilatorio_Workflows_IA",
