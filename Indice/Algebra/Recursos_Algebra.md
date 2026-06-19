@@ -653,3 +653,11 @@ Si me proporcionas el texto **real** y **completo** del paper que se enfoca en �
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781843110697_30tad0.pdf`
+
+
+### 2026-06-19 — 0_Fecha_de_actualización_1432019_Curso_2018-2019_Guía_Docente_del_Grado_en_Físic_386p_4.6MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\0_Fecha_de_actualización_1432019_Curso_2018-2019_Guía_Docente_del_Grado_en_Físic_386p_4.6MB.pdf`
