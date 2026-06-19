@@ -12,6 +12,10 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-18 21:42 | Quimica | Quim_01 | pdf_1781755212273_z3i8nl.pdf | ✅ |
+
+| 2026-06-18 21:41 | Quimica | Quim_01 | POR ELLO: EL MINISTRO DE EDUCACIÓN RESUELVE | ✅ |
+
 | 2026-06-18 21:39 | Analisis | Anm_01 | EQUIPE | ✅ |
 
 | 2026-06-18 21:37 | Analisis | Anm_01 | Faculdade de Meteorologia Curso de Graduação em Meteorologia | ✅ |
