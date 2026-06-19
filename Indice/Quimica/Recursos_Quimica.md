@@ -155,3 +155,11 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\pdf_1781843087167_fitaxj.pdf`
+
+
+### 2026-06-19 — 25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrategia_para_la_enseñanz_16p_1.4MB.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError("HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión"))
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Quimica\25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrategia_para_la_enseñanz_16p_1.4MB.pdf`

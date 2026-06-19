@@ -12,6 +12,156 @@ Bitácora automática de PDFs encontrados y procesados.
 | Fecha | Eje | Materia | Título | Estado |
 |-------|-----|---------|--------|--------|
 
+| 2026-06-19 05:34 | Quimica | Quim_01 | 25_37_Las_reacciones_químicas_como_sistemas_térmicos_estrate | ✅ |
+
+| 2026-06-19 05:34 | Analisis | Anm_01 | Universidade_Federal_do_Espírito_Santo_Projeto_Pedagógico_de | ✅ |
+
+| 2026-06-19 05:34 | Analisis | Anm_01 | Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Cu | ✅ |
+
+| 2026-06-19 05:34 | Analisis | Anm_01 | Universidade_Federal_de_Pelotas_Faculdade_de_Meteorologia_Cu | ✅ |
+
+| 2026-06-19 05:34 | Analisis | Anm_01 | Universidad_Autónoma_de_Querétaro_Facultad_de_Ingeniería_Mae | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | Un_aporte_para_trabajar_sucesiones_numéricas_con_Geogebra_Go | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | Un_aporte_para_su_aprendizaje_Medina_Perla_,_Astiz_Mercedes, | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | Stewart_Calculus_Early_Transcendentals_1421p_33MB.pdf | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | pdf_1781855856069_kvmtqz.pdf | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | pdf_1781855747045_cx10ym.pdf | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | pdf_1781855648963_jtf1vf.pdf | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | pdf_1781855171076_8gciuu.pdf | ✅ |
+
+| 2026-06-19 05:33 | Analisis | Anm_01 | pdf_1781855066530_gfvpj0.pdf | ✅ |
+
+| 2026-06-19 05:32 | Analisis | Anm_01 | pdf_1781854968934_nmey17.pdf | ✅ |
+
+| 2026-06-19 05:32 | Analisis | Anm_01 | pdf_1781854691567_93e8ou.pdf | ✅ |
+
+| 2026-06-19 05:32 | Analisis | Anm_01 | MINISTÉRIO_DA_EDUCAÇÃO_UNIVERSIDADE_FEDERAL_DO_OESTE_DA_BAHI | ✅ |
+
+| 2026-06-19 05:32 | Analisis | Anm_01 | Lecturas_Matemáticas_Volumen_46_(1)_(2025),_páginas_47-62_IS | ✅ |
+
+| 2026-06-19 05:32 | Analisis | Anm_01 | Instituto_de_Investigaciones_sobre_la_Universidad_y_la_Educa | ✅ |
+
+| 2026-06-19 05:32 | Algebra | Alg_01 | Álgebra_lineal_786p_5.7MB.pdf | ✅ |
+
+| 2026-06-19 05:32 | Algebra | Alg_01 | unknown_4_a99pbh_764p_26.6MB.pdf | ✅ |
+
+| 2026-06-19 05:32 | Algebra | Alg_01 | unknown_3_1kog2d_288p_8.1MB.pdf | ✅ |
+
+| 2026-06-19 05:32 | Algebra | Alg_01 | UNIVERSIDADE_FEDERAL_DE_GOIÁS_PRÓ-REITORIA_DE_PÓS-GRADUAÇÃO_ | ✅ |
+
+| 2026-06-19 05:32 | Algebra | Alg_01 | UNIVERSIDAD_NACIONAL_DE_EDUCACIÓN_Enrique_Guzmán_y_Valle_Alm | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | Universidad_Distrital_Francisco_José_de_Caldas_Página_1_de_1 | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | UNIVERSIDAD_DE_COSTA_RICA_FACULTAD_DE_CIENCIAS_ESCUELA_DE_MA | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | UNIVERSIDAD_COMPLUTENSE_DE_MADRID_FACULTAD_DE_INFORMATICA_Fe | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | UNIVERSIDAD_COMPLUTENSE_DE_MADRID_FACULTAD_DE_INFORMATICA_Fe | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | UNIVERSIDAD_AUTÓNOMA_DEL_ESTADO_DE_HIDALGO_INSTITUTO_DE_CIEN | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | UNIDAD_ZACATENCO_DEPARTAMENTO_DE_MATEMÁTICA_EDUCATIVA_Una_pr | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | Unidad_Zacatenco_Departamento_de_Matemática_Educativa_Falsas | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | Unidad_5_Cónicas_Sección_1_Sección_2_Sección_3_La_parábola_L | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | Strang_Linear_Algebra_and_Its_Applications.pdf | ✅ |
+
+| 2026-06-19 05:31 | Algebra | Alg_01 | Strang_Differential_Equations_and_Linear_Algebra.pdf | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | Rudimentos_matemáticos_para_el_dominio_de_la_Ingeniería_de_l | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | REVISTA_DE_INVESTIGACIÓN_EN_MODELOS_MATEMATICOS_APLICADOS_A_ | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | R_O_B_E_R_T_G_H_R_I_S_T_L_I_N_E_A_R_A_L_G_E_B_R_A_E_S_S_E_N_ | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | pdf_1781854469946_uyavvx.pdf | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | pdf_1781854305504_f9ui2a.pdf | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | OPES_3122007_v.1_OPES-12008_Enero,_2008_OPES_012008_Consejo_ | ✅ |
+
+| 2026-06-19 05:30 | Algebra | Alg_01 | Matemática_Aplicada,_Computacional_e_Industrial_MACI_Vol_613 | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | Libro_para_el_docente_257p_1.7MB.pdf | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | Lay_Algebra_Lineal_y_sus_Aplicaciones_586p_6MB.pdf | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | KALOCAI_2019_Editorial_Edutecne_S.A_551p_16.6MB.pdf | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | Juan_Ángel_Díaz_Hernando_Doctor_Ingeniero_Industrial_Licenci | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | John_Alexander_Pérez_Sepúlveda_Juan_Guillermo_Paniagua_Castr | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | ISSN_1988-5911_(Online)_Journal_homepage_httpwww.ehu.eusikas | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | IDENTIFICACIÓN_DE_LA_ASIGNATURA_189p_0.6MB.pdf | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | I_DIVISIÓN_DE_INGENIERÍA_MECÁNICA_E_INDUSTRIAL_UNIVERSIDAD_N | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | Graduate_Texts_in_Mathematics_135_Editorial_Board_S_509p_5.9 | ✅ |
+
+| 2026-06-19 05:29 | Algebra | Alg_01 | FUNCIONES_VECTORIALES_Y_CURVAS_EN_EL_ESPACIO_Randy_Zabaleta_ | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | Fascículo_2_Cursos_de_grado_Gabriela_Jeronimo_Juan_Sabia_Sus | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | Facultad_de_Ciencias_TRABAJO_FIN_DE_GRADO_Grado_en_Matematic | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | ESTUDIO_DE_LAS_SECCIONES_CÓNICAS_A_TRAVÉS_DE_LA_GEOMETRÍA_DI | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | ebuzzpro.blogspot.com_Download_All_Engg_1327p_147.0MB.pdf | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | DOCUMENT_RESUME_ED_411_138_SE_058_666_AUTHOR_Booker,_George, | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | DIRECTORIO_DE_APLICACIONES_DEL_()_ALGEBRA_LINEAL_Dr_DPnnis_P | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | Departamento_de_Matemática_Aplicada_Tema_6_Conicas_y_cuadric | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | David_S_Dummit_Richard_M_Foote_Abstract_Algebra_3rd_Edition_ | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | Dancing_Into_Darkness_290p_12.3MB.pdf | ✅ |
+
+| 2026-06-19 05:28 | Algebra | Alg_01 | Curso_2023-2024_Guía_Docente_del_Grado_en_Física_V3_(actuali | ✅ |
+
+| 2026-06-19 05:27 | Algebra | Alg_01 | Curso_2022-2023_Guía_Docente_del_Grado_en_Física_V4_(actuali | ✅ |
+
+| 2026-06-19 05:27 | Algebra | Alg_01 | Contenido_iii_ÁLGEBRA_LINEAL_MÉXICO_BOGOTÁ_BUENOS_AIRES_CARA | ✅ |
+
+| 2026-06-19 05:27 | Algebra | Alg_01 | Collins_Global_Positioning_System_Theory_and_Practice_Spring | ✅ |
+
+| 2026-06-19 05:26 | Algebra | Alg_01 | CENTRO_DE_INVESTIGACIÓN_Y_DE_ESTUDIOS_AVANZADOS_DEL_INSTITUT | ✅ |
+
+| 2026-06-19 05:25 | Algebra | Alg_01 | Betancur,_A.,_Roa_Fuentes,_S_24p_1.2MB.pdf | ✅ |
+
+| 2026-06-19 05:23 | Algebra | Alg_01 | Bernard_Kolman_David_R_762p_7.0MB.pdf | ✅ |
+
+| 2026-06-19 05:20 | Algebra | Alg_01 | AUTOR_JAIRO_ARIZA_HERREÑO_VECTORES_ÍNDICE_Introducción_38p_1 | ✅ |
+
+| 2026-06-19 05:18 | Algebra | Alg_01 | Application_of_Auditory_Filter-Banks_in_Polyphonic_Music_Tra | ✅ |
+
+| 2026-06-19 05:16 | Algebra | Alg_01 | ADVANCES_IN_APPLIED_MATHEMATICS_AND_GLOBAL_OPTIMIZATION_IN_H | ✅ |
+
+| 2026-06-19 05:14 | Algebra | Alg_01 | Abstract_Algebra_for_Polynomial_Operations_Maya_Mohsin_Ahmed | ✅ |
+
+| 2026-06-19 05:12 | Algebra | Alg_01 | 4_Linear_Transformations_The_operations_and_provide_a_linear | ✅ |
+
+| 2026-06-19 05:10 | Algebra | Alg_01 | 2_Linear_Transformations_and_Matrices_A_standard_approach_in | ✅ |
+
+| 2026-06-19 05:08 | Algebra | Alg_01 | 1_4º_Jornadas_ITE_-_2017_-_Facultad_de_Ingeniería_-_UNLP_2_4 | ✅ |
+
+| 2026-06-19 05:06 | Algebra | Alg_01 | 180_REMATEC,_Belém_(PA),_v_13p_0.9MB.pdf | ✅ |
+
+| 2026-06-19 05:04 | Algebra | Alg_01 | 1.PRESENTACIÓN_2.CONTEXTUALIZACIÓN_3.CONOCIMIENTOS_PREVIOS_R | ✅ |
+
 | 2026-06-19 05:02 | Algebra | Alg_01 | 0_Fecha_de_actualización_1432019_Curso_2018-2019_Guía_Docent | ✅ |
 
 | 2026-06-19 02:04 | Quimica | Quim_01 | pdf_1781843087167_fitaxj.pdf | ✅ |
