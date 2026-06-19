@@ -563,3 +563,77 @@ created: 2026-06-17
 - **Conceptos clave:** 
 - **Fuente:** 
 - **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745840220_ysaf9q.pdf`
+
+
+### 2026-06-18 — pdf_1781745840221_v640uv.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745840221_v640uv.pdf`
+
+
+### 2026-06-18 — pdf_1781745840222_tv6a0u.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745840222_tv6a0u.pdf`
+
+
+### 2026-06-18 — pdf_1781745840223_6p7p7w.pdf
+- **Resumen:** No puedo analizar el contenido del paper porque no hay texto sustancial sobre Álgebra Lineal (matrices, determinantes, vectores, eigenvalores) en la consulta. El fragmento proporcionado es solo una introducción al índice con información editorial.
+
+Si me proporcionas el texto **real** y **completo** del paper que se enfoca en Álgebra Lineal, puedo generar un JSON como solicitaste con la información relevante para un estudiante de ingeniería.
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745840223_6p7p7w.pdf`
+
+
+### 2026-06-18 — pdf_1781745960371_64ze9g.pdf
+- **Resumen:** No disponible
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781745960371_64ze9g.pdf`
+
+
+### 2026-06-18 — pdf_1781755239427_0rinvd.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781755239427_0rinvd.pdf`
+
+
+### 2026-06-18 — pdf_1781755239429_4nbkvi.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781755239429_4nbkvi.pdf`
+
+
+### 2026-06-18 — pdf_1781755239429_ury3sj.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781755239429_ury3sj.pdf`
+
+
+### 2026-06-18 — pdf_1781755239433_6e8ezp.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781755239433_6e8ezp.pdf`
+
+
+### 2026-06-18 — pdf_1781755239436_bievt7.pdf
+- **Resumen:** Error al procesar con DeepSeek: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+- **Dificultad:** intermedio
+- **Conceptos clave:** 
+- **Fuente:** 
+- **📎 PDF:** `C:\Users\braia\Desktop\Carpetus\IA\Hermes estudio\PDFs\Algebra\pdf_1781755239436_bievt7.pdf`
