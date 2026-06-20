@@ -10,13 +10,19 @@
   "toolLoading": {
     "profile": "all",
     "counters": {
-      "get_server_info": 2,
-      "get_recent_files": 3,
-      "get_vault_file": 6,
+      "get_server_info": 4,
+      "get_recent_files": 4,
+      "get_vault_file": 15,
       "fetch": 249,
-      "create_vault_file": 6,
+      "create_vault_file": 13,
       "show_file_in_obsidian": 1,
-      "append_to_vault_file": 2
+      "append_to_vault_file": 2,
+      "list_vault_files": 2,
+      "find_broken_links": 3,
+      "find_orphaned_notes": 2,
+      "list_tags": 1,
+      "search_and_replace": 3,
+      "delete_vault_file": 4
     },
     "promoted": []
   }

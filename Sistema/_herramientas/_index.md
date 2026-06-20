@@ -4,10 +4,10 @@ Archivos de configuración, inventario y referencias del pipeline académico.
 
 ---
 
-- [[_herramientas/_inventario_pdf|Inventario PDF]] — lista completa de todos los PDFs descargados
-- [[_herramientas/Referencias/descargador_textbooks|Descargador de Textbooks]] — documentación del pipeline de descarga
-- [[_herramientas/Referencias/inventario_pdfs|Inventario (documentación)]]
+- [[Sistema/_herramientas/_inventario_pdf|Inventario PDF]] — lista completa de todos los PDFs descargados
+- [[Sistema/_herramientas/Referencias/descargador_textbooks|Descargador de Textbooks]] — documentación del pipeline de descarga
+- [[Sistema/_herramientas/Referencias/inventario_pdfs|Inventario (documentación)]]
 
 ---
 
-> Volver a [[_index|Sistema Académico]]
+> Volver a [[Sistema/_index|Sistema Académico]]

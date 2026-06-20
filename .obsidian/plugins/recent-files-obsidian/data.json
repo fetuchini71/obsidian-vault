@@ -1,44 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "Sistema/Libros/Algebra/_index.md"
+      "basename": "textbook-download-methods-report",
+      "path": "IA/5_MCP/textbook-download-methods-report.md"
     },
     {
-      "basename": "_index",
-      "path": "Sistema/_index.md"
-    },
-    {
-      "basename": "01_matrices_kolman",
-      "path": "Sistema/_extracciones/01_matrices_kolman.md"
-    },
-    {
-      "basename": "02_limites_calculovec",
-      "path": "Sistema/_extracciones/02_limites_calculovec.md"
-    },
-    {
-      "basename": "03_atomica_chang",
-      "path": "Sistema/_extracciones/03_atomica_chang.md"
-    },
-    {
-      "basename": "04_atomica_atkins",
-      "path": "Sistema/_extracciones/04_atomica_atkins.md"
-    },
-    {
-      "basename": "universidad-nacional-de-ucación-enrique-guzmán-y-valle-alma-máter-del-magister-7",
-      "path": "Sistema/Libros/Algebra/universidad-nacional-de-ucación-enrique-guzmán-y-valle-alma-máter-del-magister-7.md"
-    },
-    {
-      "basename": "Guia_Recursos_Algebra_y_Geometria_I",
-      "path": "Recursos/Guia_Recursos_Algebra_y_Geometria_I.md"
-    },
-    {
-      "basename": "matrices",
-      "path": "Sistema/Apuntes/Algebra/matrices.md"
-    },
-    {
-      "basename": "plane-and-solid-analytic-geometry",
-      "path": "Sistema/Libros/Algebra/plane-and-solid-analytic-geometry.md"
+      "basename": "Recursos_Complementarios",
+      "path": "Indice/Recursos_Complementarios.md"
     },
     {
       "basename": "Nota de Clase",
@@ -47,18 +15,6 @@
     {
       "basename": "000_Indice",
       "path": "Indice/000_Indice.md"
-    },
-    {
-      "basename": "Registro_Busquedas",
-      "path": "Indice/_Sistema/Registro_Busquedas.md"
-    },
-    {
-      "basename": "Guia_Recursos_Quimica_General",
-      "path": "Recursos/Guia_Recursos_Quimica_General.md"
-    },
-    {
-      "basename": "Guia_Recursos_Analisis_Matematico_I",
-      "path": "Recursos/Guia_Recursos_Analisis_Matematico_I.md"
     },
     {
       "basename": "Eje_Quimica",
@@ -87,10 +43,6 @@
     {
       "basename": "Dashboard_Progreso",
       "path": "Indice/Dashboard_Progreso.md"
-    },
-    {
-      "basename": "Recursos_Complementarios",
-      "path": "Indice/Recursos_Complementarios.md"
     },
     {
       "basename": "Ejercicio",
