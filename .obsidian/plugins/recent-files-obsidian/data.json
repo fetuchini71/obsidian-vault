@@ -5,12 +5,12 @@
       "path": "IA/5_MCP/textbook-download-methods-report.md"
     },
     {
-      "basename": "Recursos_Complementarios",
-      "path": "Indice/Recursos_Complementarios.md"
+      "basename": "_index",
+      "path": "Sistema/_index.md"
     },
     {
-      "basename": "Nota de Clase",
-      "path": "Indice/_templates/Nota de Clase.md"
+      "basename": "_index",
+      "path": "Sistema/_herramientas/_index.md"
     },
     {
       "basename": "000_Indice",
@@ -37,18 +37,6 @@
       "path": "Indice/Analisis_Matematico/Anm_Aplicaciones_Derivada.md"
     },
     {
-      "basename": "Dashboard_Recursos",
-      "path": "Indice/Dashboard_Recursos.md"
-    },
-    {
-      "basename": "Dashboard_Progreso",
-      "path": "Indice/Dashboard_Progreso.md"
-    },
-    {
-      "basename": "Ejercicio",
-      "path": "Indice/_templates/Ejercicio.md"
-    },
-    {
       "basename": "Quim_Compuestos_Nomenclatura",
       "path": "Indice/Quimica/Quim_Compuestos_Nomenclatura.md"
     },
@@ -63,10 +51,6 @@
     {
       "basename": "Alg_Cambio_Base",
       "path": "Indice/Algebra/Alg_Cambio_Base.md"
-    },
-    {
-      "basename": "Flashcards",
-      "path": "Indice/_templates/Flashcards.md"
     },
     {
       "basename": "Alg_Autovalores_Autovectores",

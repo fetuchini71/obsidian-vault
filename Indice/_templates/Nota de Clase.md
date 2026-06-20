@@ -1,14 +1,14 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
-tags: [clase/<% tp.system.suggester(["Algebra", "Analisis", "Quimica"], ["algebra", "analisis", "quimica"]) %>]
-materia: <% tp.system.suggester(["Algebra y Geometria I", "Analisis Matematico I", "Introduccion a la Quimica"], ["AGI", "AMI", "IQ"]) %>
+created: 2026-06-19
+tags: [clase/null]
+materia: null
 estado: pendiente
-semana: <% tp.date.now("ww-YYYY") %>
+semana: 25-2026
 ---
 
-# <% tp.file.title %>
+# Flashcards
 
-**Fecha:** <% tp.date.now("dddd, DD/MM/YYYY") %>
+**Fecha:** viernes, 19/06/2026
 **Materia:** `= this.materia`
 **Profesor:**
 **Temas cubiertos:**
