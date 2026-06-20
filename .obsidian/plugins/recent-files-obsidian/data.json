@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "Sistema/Libros/Algebra/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "Sistema/_index.md"
+    },
+    {
+      "basename": "01_matrices_kolman",
+      "path": "Sistema/_extracciones/01_matrices_kolman.md"
+    },
+    {
+      "basename": "02_limites_calculovec",
+      "path": "Sistema/_extracciones/02_limites_calculovec.md"
+    },
+    {
+      "basename": "03_atomica_chang",
+      "path": "Sistema/_extracciones/03_atomica_chang.md"
+    },
+    {
+      "basename": "04_atomica_atkins",
+      "path": "Sistema/_extracciones/04_atomica_atkins.md"
+    },
+    {
+      "basename": "universidad-nacional-de-ucación-enrique-guzmán-y-valle-alma-máter-del-magister-7",
+      "path": "Sistema/Libros/Algebra/universidad-nacional-de-ucación-enrique-guzmán-y-valle-alma-máter-del-magister-7.md"
+    },
+    {
       "basename": "Guia_Recursos_Algebra_y_Geometria_I",
       "path": "Recursos/Guia_Recursos_Algebra_y_Geometria_I.md"
     },
@@ -17,32 +45,12 @@
       "path": "Indice/_templates/Nota de Clase.md"
     },
     {
-      "basename": "Algebra",
-      "path": "Sistema/Indices/Algebra.md"
-    },
-    {
-      "basename": "2026-06-19 Weekly LLM Roundup",
-      "path": "AI Research/2026-06-19 Weekly LLM Roundup.md"
-    },
-    {
       "basename": "000_Indice",
       "path": "Indice/000_Indice.md"
     },
     {
-      "basename": "descargador_textbooks",
-      "path": "Sistema/Referencias/descargador_textbooks.md"
-    },
-    {
       "basename": "Registro_Busquedas",
       "path": "Indice/_Sistema/Registro_Busquedas.md"
-    },
-    {
-      "basename": "APIs-Gratuitas-LLM-2026",
-      "path": "Investigación/APIs-Gratuitas-LLM-2026.md"
-    },
-    {
-      "basename": "Mega-Recopilatorio_Workflows_IA",
-      "path": "Recursos/Mega-Recopilatorio_Workflows_IA.md"
     },
     {
       "basename": "Guia_Recursos_Quimica_General",
