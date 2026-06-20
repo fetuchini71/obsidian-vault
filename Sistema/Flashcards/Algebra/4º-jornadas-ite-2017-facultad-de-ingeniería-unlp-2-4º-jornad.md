@@ -4,7 +4,7 @@
 
 **Total:** 1 tarjetas | 1 definiciones, 0 teoremas
 
-*Generado: 2026-06-19 16:16*
+*Generado: 2026-06-19 20:59*
 
 ---
 

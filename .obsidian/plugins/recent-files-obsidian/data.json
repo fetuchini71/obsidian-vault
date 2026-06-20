@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "plane-and-solid-analytic-geometry",
+      "path": "Sistema/Libros/Algebra/plane-and-solid-analytic-geometry.md"
+    },
+    {
+      "basename": "Nota de Clase",
+      "path": "Indice/_templates/Nota de Clase.md"
+    },
+    {
+      "basename": "Algebra",
+      "path": "Sistema/Indices/Algebra.md"
+    },
+    {
       "basename": "2026-06-19 Weekly LLM Roundup",
       "path": "AI Research/2026-06-19 Weekly LLM Roundup.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Eje_Algebra",
       "path": "Indice/Algebra/Eje_Algebra.md"
-    },
-    {
-      "basename": "Nota de Clase",
-      "path": "Indice/_templates/Nota de Clase.md"
     },
     {
       "basename": "Anm_Limites_Continuidad",
