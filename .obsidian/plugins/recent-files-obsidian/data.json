@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Guia_Recursos_Algebra_y_Geometria_I",
+      "path": "Recursos/Guia_Recursos_Algebra_y_Geometria_I.md"
+    },
+    {
+      "basename": "matrices",
+      "path": "Sistema/Apuntes/Algebra/matrices.md"
+    },
+    {
       "basename": "plane-and-solid-analytic-geometry",
       "path": "Sistema/Libros/Algebra/plane-and-solid-analytic-geometry.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Guia_Recursos_Analisis_Matematico_I",
       "path": "Recursos/Guia_Recursos_Analisis_Matematico_I.md"
-    },
-    {
-      "basename": "Guia_Recursos_Algebra_y_Geometria_I",
-      "path": "Recursos/Guia_Recursos_Algebra_y_Geometria_I.md"
     },
     {
       "basename": "Eje_Quimica",

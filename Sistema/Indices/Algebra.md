@@ -88,3 +88,52 @@
 ### 📕 Escaneados (sin texto) (1)
 
 - [[unknown-4-a99pbh|Unknown 4 A99pbh]] — 764p, 26.6MB
+
+---
+
+## Biblioteca
+
+Ver [[1_Biblioteca/Algebra/_index|Algebra - Biblioteca]]
+
+## Apuntes
+- [[Apuntes/Algebra/matrices|Matrices]]
+
+
+---
+
+## Biblioteca
+
+Ver [[1_Biblioteca/Algebra/_index|Algebra - Biblioteca]]
+
+## Apuntes
+- [[Apuntes/Algebra/matrices|Matrices]]
+
+
+---
+
+## Biblioteca
+
+Ver [[1_Biblioteca/Algebra/_index|Algebra - Biblioteca]]
+
+## Apuntes
+- [[Apuntes/Algebra/matrices|Matrices]]
+
+
+---
+
+## Biblioteca
+
+Ver [[1_Biblioteca/Algebra/_index|Algebra - Biblioteca]]
+
+## Apuntes
+- [[Apuntes/Algebra/matrices|Matrices]]
+
+
+---
+
+## Biblioteca
+
+Ver [[1_Biblioteca/Algebra/_index|Algebra - Biblioteca]]
+
+## Apuntes
+- [[Apuntes/Algebra/matrices|Matrices]]
